@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 
-TOKEN = "bmpzCA7dG7H16Avrhx77yqZQGI3kvjc5"
+TOKEN = "D:\Users\KOU\Documents\animeBOT"
 CHANNEL_ID = 666999245114572810
 
 text_chat = discord.Object(id=CHANNEL_ID)
